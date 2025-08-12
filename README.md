@@ -151,4 +151,4 @@ LIMIT 20
 I had a lot of fun working on this project, and it was extremely insightful since it allowed me to learn more about the job I wish to pursue. It also enhanced my SQL skills as I had 0 knowledge prior to this project. I hope that the skills I've learnt from this project will allow me to learn more and better my future projects
 
 ### Extra notes
-Credits to [Luke Barousse](https://www.youtube.com/@LukeBarousse) on Youtube for teaching me the SQL basics, as well as walking me through this project. I could not have learnt the skills and finished this project without him
+Credits to [Luke Barousse](https://www.youtube.com/@LukeBarousse) on Youtube for teaching me the SQL basics, as well as walking me through this project. I could not have learnt the skills and finished this project without him```
